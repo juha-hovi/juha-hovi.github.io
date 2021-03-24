@@ -1,0 +1,5 @@
+A collaboration project between Aalto University and Futurice, presented in a public gala. Prototyping different approaches to telepresence using the open source robot InMoov, including:
+	- Microsoft Kinect-based motion capture/replication (ROS)
+	- Physical prototypes for capturing arm/hand/head movements (IMUs / resistors + Arduino)
+
+Unfortunately live footage is lost in time.

@@ -1,0 +1,3 @@
+A ROS bridge between CARLA-simulator and Autoware (ROS), including: 
+	- Mapping areas within CARLA using Autoware
+	- Detecting vehicles using Autoware's SSD detector

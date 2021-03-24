@@ -1,0 +1,1 @@
+Autonomous mapping of dynamic environments. Safely explore and map indoor areas with dynamic (human) actors using a KUKA YouBot and two infrared line-scanners running on ROS. Additionally, detect and name rooms found during exploration. 2 separate GUIs to control the robot: web-based and PyQt-based.

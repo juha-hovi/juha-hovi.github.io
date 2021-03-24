@@ -1,0 +1,1 @@
+OpenGL / C++ practice project. A simple 3D modeling program with ability to create and view different shapes in different ways. 2D UI done with Dear ImGui, 3D rendering code is self-written.
