@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="projects/carla-autoware/ssd_detection.png">
+    <img src="projects/carla-autoware/ssd_detection.png" alt="SSD detection of vehicle" width="600" height="400">
+  </a>
+  <div class="desc">Autoware's SSD classifying a vehicle using RGB and LIDAR data</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="projects/carla-autoware/carla_lidar_rviz.png">
+    <img src="projects/carla-autoware/carla_lidar_rviz.png" alt="Simulated LIDAR" width="600" height="400">
+  </a>
+  <div class="desc">Visualization of a LIDAR simulated in CARLA using ROS and RViz</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="projects/carla-autoware/rviz_autoware_mapping_from_bag.png">
+    <img src="projects/carla-autoware/rviz_autoware_mapping_from_bag.png" alt="Mapping" width="600" height="400">
+  </a>
+  <div class="desc">A map created using Autoware from simulated LIDAR data collected in CARLA</div>
+</div>
+
+</body>
+</html>
